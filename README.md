@@ -26,12 +26,14 @@
 
 **Tools & Dev**:  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
 ---
 
 ### 🎓 Currently  
 - **B.Sc. in Neurotechnology & Programming** @ **ITMO University**  
 - Building diffusion-based models for **image style transfer**  
 - Optimizing ML pipelines (hyperparameter tuning, cross-validation, feature engineering)
+
 ### 📈 Github Statistics
 
 <p align="center">
@@ -40,4 +42,15 @@
 </p>
 
 ---
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="assets/1.svg" alt="Certificado 1" width="48%"/>
+  <img src="assets/2.svg" alt="Certificado 2" width="48%"/>
+</p>
+<p align="center">
+  <img src="assets/3.svg" alt="Certificado 3" width="48%"/>
+  <img src="assets/4.svg" alt="Certificado 4" width="48%"/>
+</p>
 
