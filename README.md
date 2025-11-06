@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jean Cantunia 👋</h1>
+<h1 align="center">Hi, I'm Jean Cantuña 👋</h1>
 <h3 align="center">ML Engineer & Neurotechnology Student @ ITMO University</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 - **Natural Language Processing (NLP)**  
 - **Computer Vision (CV)**  
 - **Deep Learning (DL)** & Diffusion Models  
-- **Robotics & Cognitive Systems (RC)**  
+- **Reinforcement Learning & Cognitive Systems (RL)**  
 - **Neurotechnology** + Brain-Computer Interfaces  
 
 ---
@@ -19,20 +19,13 @@
 ### 💻 Tech Stack  
 
 **Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 **ML / DL**:  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
 
 **Tools & Dev**:  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ---
 
 ### 🎓 Currently  
