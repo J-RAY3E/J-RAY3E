@@ -50,9 +50,9 @@
   <img src="assets/2.svg" alt="Certificado 2" width="48%"/>
 </p>
 <p align="center">
-  <img src="assets/3.svg" alt="Certificado 3" width="48%"/>
-  <img src="assets/4.svg" alt="Certificado 4" width="48%"/>
+  <img src="assets/3.png" alt="Certificado 3" width="48%"/>
+  <img src="assets/4.png" alt="Certificado 4" width="48%"/>
 </p>
 <p align = "center">
-  <img src="assets/s5.svg" alt="Certificado 5" width="60%"/>
+  <img src="assets/s5.png" alt="Certificado 5" width="60%"/>
 </p>
