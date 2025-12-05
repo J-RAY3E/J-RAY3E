@@ -53,4 +53,6 @@
   <img src="assets/3.svg" alt="Certificado 3" width="48%"/>
   <img src="assets/4.svg" alt="Certificado 4" width="48%"/>
 </p>
-
+<p align = "center">
+  <img src="assets/5.svg" alt="Certificado 4" width="60%"/>
+</p>
