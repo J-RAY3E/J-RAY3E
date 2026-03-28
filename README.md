@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jean Cantuña 👋</h1>
+<h1 align="center">Hi, I'm Jean 👋</h1>
 <h3 align="center">ML Engineer & Neurotechnology Student @ ITMO University</h3>
 
 <p align="center">
